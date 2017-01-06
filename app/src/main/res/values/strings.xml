@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Free version code starts -->
+    <string name="app_name">Dark Mode Free</string>
+    <string name="pro_package_name">com.zenda.android.darkmode.pro</string>
+    <string name="admob_app_id">ca-app-pub-6712851081127060~8667871832</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6712851081127060/5156002236</string>
+    <!-- below are old ids which are working on emulator and showing test ads -->
+    <!--
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    -->
+    <!-- Free version code ends -->
+
+    <!-- Pro version code starts -->
+    <!-- <string name="app_name">Dark Mode Pro</string> -->
+    <!-- Pro version code ends -->
+
+
+    <string name="btn_start_text">Start</string>
+    <string name="btn_stop_text">Stop</string>
+    <string name="btn_buy_text">Buy Pro version</string>
+    <string name="status_running">Running</string>
+    <string name="status_stopped">Stopped</string>
+    
+    <string name="toast_service_started">Dark mode started!</string>
+    <string name="toast_service_stopped">Dark mode stopped!</string>
+    
+    <string name="brightness_meter">Brightness</string>
+    <string name="cb_autostart_text">Start on launch</string>
+
+
+</resources>
+ 

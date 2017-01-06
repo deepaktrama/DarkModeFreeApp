@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1033334454725",
+    "firebase_url": "https://darkmode-825ce.firebaseio.com",
+    "project_id": "darkmode-825ce",
+    "storage_bucket": "darkmode-825ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033334454725:android:55602d2839582cc7",
+        "android_client_info": {
+          "package_name": "com.zenda.android.darkmode.free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033334454725-hs00apqr8vuq745cggs0tkfmcok7fas0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_bqqq-Q0jfKiG8_lSsar7Mr3GZ0RxLTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
